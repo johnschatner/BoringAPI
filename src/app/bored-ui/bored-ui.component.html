@@ -1,0 +1,31 @@
+<main>
+  <div class="site-wrapper">
+    <div [style.background]="gradient" class="randomBg"></div>
+    <div (click)="copyToClipboard()" class="activity-wrapper tooltip">
+      <!-- This method doesn't work with my animations, 
+        but is according to the instructions -->
+      <!-- 
+        <span ngModel #activitySpan class="activity">{{
+        boredResponse.activity
+      }}</span> 
+        -->
+
+      <!-- ================================= SPACER ========================= -->
+
+      <!-- This method works with my animations! 
+        Not according to the instructions :/ -->
+      <span *ngFor="let span of boredArray" class="activity prevent-select">{{
+        span
+      }}</span>
+    </div>
+    <div class="btn-wrapper">
+      <button
+        class="btn btn-refresh prevent-select"
+        (click)="restartAnimation()"
+        (click)="randomBg()"
+      >
+        I'm bored
+      </button>
+    </div>
+  </div>
+</main>
