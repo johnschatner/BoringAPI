@@ -33,7 +33,6 @@ export class BoredUiComponent implements OnInit {
 
   ngOnInit(): void {
     this.randomBg();
-    this.copyToClipboard();
     this.showActivity();
   }
 
