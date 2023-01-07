@@ -72,7 +72,6 @@ export class BoredUiComponent implements OnInit {
 
   // Reflow the animations
   restartAnimation() {
-    this.copyToClipboard(); // Reset the old tooltip
     // Fetch previous elements
     const elements = this.elem.nativeElement.querySelectorAll('.activity');
     const reloadBtn = this.elem.nativeElement.querySelector('.btn-refresh');
