@@ -36,12 +36,12 @@
   <p align="center">
     A wholly extensive recreation of the IKEA website as of 2022
     <br />
-    <a target="_blank" href="https://johnsikea.netlify.app/"><strong>View Demo »</strong></a>
+    <a target="_blank" href="https://boringapi.netlify.app/"><strong>View Demo »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/johnschatner/IKEA/issues">Report Bug</a>
+    <a href="https://github.com/johnschatner/BoringAPI/issues">Report Bug</a>
     ·
-    <a href="https://github.com/johnschatner/IKEA/issues">Request Feature</a>
+    <a href="https://github.com/johnschatner/BoringAPI/issues">Request Feature</a>
   </p>
 </div>
 
@@ -75,7 +75,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://johnsikea.netlify.app/)
+[![Product Name Screen Shot][product-screenshot]](https://boringapi.netlify.app/)
 
 In this project I strive to recreate the IKEA homepage, one product page and the checkout page as closely as possible.
 <br>
@@ -104,7 +104,7 @@ In this project I strive to recreate the IKEA homepage, one product page and the
 
 ## Getting Started
 
-<a target="_blank" href="https://johnsikea.netlify.app/"><strong>View Demo »</strong></a>
+<a target="_blank" href="https://boringapi.netlify.app/"><strong>View Demo »</strong></a>
 
 To get a local copy up and running follow these simple steps.
 
@@ -135,7 +135,7 @@ This project uses Visual Studio Code - Live Server Extension
 
 ## Usage
 
-<a target="_blank" href="https://johnsikea.netlify.app/"><strong>View Demo »</strong></a>
+<a target="_blank" href="https://boringapi.netlify.app/"><strong>View Demo »</strong></a>
 
 Explore the recreation as you see fit! It's live for the foreseeable future. :)
 
@@ -147,7 +147,7 @@ Explore the recreation as you see fit! It's live for the foreseeable future. :)
 
 - [ ] Investigate IKEA business philosophy and how they implement it digitally
 
-See the [open issues](https://github.com/johnschatner/IKEA/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/johnschatner/BoringAPI/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -203,15 +203,15 @@ Project Link: [https://github.com/johnschatner/IKEA](https://github.com/johnscha
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [contributors-shield]: https://img.shields.io/github/contributors/johnschatner/IKEA.svg?style=for-the-badge
-[contributors-url]: https://github.com/johnschatner/IKEA/graphs/contributors
+[contributors-url]: https://github.com/johnschatner/BoringAPI/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/johnschatner/IKEA.svg?style=for-the-badge
-[forks-url]: https://github.com/johnschatner/IKEA/network/members
+[forks-url]: https://github.com/johnschatner/BoringAPI/network/members
 [stars-shield]: https://img.shields.io/github/stars/johnschatner/IKEA.svg?style=for-the-badge
-[stars-url]: https://github.com/johnschatner/IKEA/stargazers
+[stars-url]: https://github.com/johnschatner/BoringAPI/stargazers
 [issues-shield]: https://img.shields.io/github/issues/johnschatner/IKEA.svg?style=for-the-badge
-[issues-url]: https://github.com/johnschatner/IKEA/issues
+[issues-url]: https://github.com/johnschatner/BoringAPI/issues
 [license-shield]: https://img.shields.io/github/license/johnschatner/IKEA.svg?style=for-the-badge
-[license-url]: https://github.com/johnschatner/IKEA/blob/master/LICENSE.txt
+[license-url]: https://github.com/johnschatner/BoringAPI/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/isac-rasmusson-99344924b
 [product-screenshot]: public/project-screen-1.png
