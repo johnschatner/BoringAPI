@@ -34,7 +34,7 @@
   </a>
 
   <p align="center">
-    Color-shifting website giving you activities to do in style when bored!
+    Things to do when bored, served in random shifting color animations!
     <br />
     <a target="_blank" href="https://boringapi.netlify.app/"><strong>View Demo »</strong></a>
     <br />
