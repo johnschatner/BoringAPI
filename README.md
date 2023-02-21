@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/johnschatner/IKEA">
+  <a href="https://github.com/johnschatner/BoringAPI">
     <img src="public/logo.png" alt="Logo" width="305" height="62">
   </a>
 
@@ -121,7 +121,7 @@ This project uses Visual Studio Code - Live Server Extension
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/johnschatner/IKEA.git
+   git clone https://github.com/johnschatner/BoringAPI.git
    ```
    <!-- 2. Install NPM packages
       ```sh
@@ -182,7 +182,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Isac - isacrs.dev@gmail.com
 
-Project Link: [https://github.com/johnschatner/IKEA](https://github.com/johnschatner/IKEA)
+Project Link: [https://github.com/johnschatner/BoringAPI](https://github.com/johnschatner/BoringAPI)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -202,15 +202,15 @@ Project Link: [https://github.com/johnschatner/IKEA](https://github.com/johnscha
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/johnschatner/IKEA.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/johnschatner/BoringAPI.svg?style=for-the-badge
 [contributors-url]: https://github.com/johnschatner/BoringAPI/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/johnschatner/IKEA.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/johnschatner/BoringAPI.svg?style=for-the-badge
 [forks-url]: https://github.com/johnschatner/BoringAPI/network/members
-[stars-shield]: https://img.shields.io/github/stars/johnschatner/IKEA.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/johnschatner/BoringAPI.svg?style=for-the-badge
 [stars-url]: https://github.com/johnschatner/BoringAPI/stargazers
-[issues-shield]: https://img.shields.io/github/issues/johnschatner/IKEA.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/johnschatner/BoringAPI.svg?style=for-the-badge
 [issues-url]: https://github.com/johnschatner/BoringAPI/issues
-[license-shield]: https://img.shields.io/github/license/johnschatner/IKEA.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/johnschatner/BoringAPI.svg?style=for-the-badge
 [license-url]: https://github.com/johnschatner/BoringAPI/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/isac-rasmusson-99344924b
