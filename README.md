@@ -104,12 +104,13 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This project uses Visual Studio Code - Live Server Extension
+This project uses npm, please install the latest version:
 
-<!-- - npm
-  ```sh
-  npm install npm@latest -g
-  ``` -->
+- npm
+
+```sh
+npm install npm@latest -g
+```
 
 ### Installation
 
@@ -117,11 +118,14 @@ This project uses Visual Studio Code - Live Server Extension
    ```sh
    git clone https://github.com/johnschatner/BoringAPI.git
    ```
-   <!-- 2. Install NPM packages
-      ```sh
-      npm install
-      ``` -->
-2. Start a local development server
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. Start a local development server
+   ```sh
+   ng serve --open
+   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
