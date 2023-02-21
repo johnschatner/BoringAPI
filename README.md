@@ -135,7 +135,7 @@ npm install npm@latest -g
 
 <a target="_blank" href="https://boringapi.netlify.app/"><strong>View Demo »</strong></a>
 
-Explore the recreation as you see fit! It's live for the foreseeable future. :)
+Get some ideas for activities whenever you're bored! It's live for the foreseeable future. :)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
