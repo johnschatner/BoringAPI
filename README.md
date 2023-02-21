@@ -30,11 +30,11 @@
 <br />
 <div align="center">
   <a href="https://github.com/johnschatner/IKEA">
-    <img src="public/logo.png" alt="Logo" width="240" height="150">
+    <img src="public/logo.png" alt="Logo" width="305" height="62">
   </a>
 
   <p align="center">
-    A wholly extensive recreation of the IKEA website as of 2022
+    Color-shifting website giving you activities to do in style when bored!
     <br />
     <a target="_blank" href="https://boringapi.netlify.app/"><strong>View Demo »</strong></a>
     <br />
