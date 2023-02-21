@@ -77,28 +77,22 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://boringapi.netlify.app/)
 
-In this project I strive to recreate the IKEA homepage, one product page and the checkout page as closely as possible.
+Angular single-page-application that serves random activities to do when one is bored. These activities are gathered from <a href="https://www.boredapi.com/">BoredAPI</a> using the built-in Fetch API.
 <br>
 
-- Fun!
-- 1x Landing page
-- 1x Product page
-- 1x Checkout page
+- Random activities
+- Beautiful animations
+- Fetch states eg: calls disabled until completion response
+- Copy to clipboard
 - Fully responsive
-- Many effects
-- Built with HTML5, CSS3 and Vanilla JS
-
-<sub>note: The recreation does not include any business logic nor do I or the project claim to own any of the images/assets used. All trademarks, rights and other assets belong to their rightful owners. This was only made in good fun and to see if I could recreate their amazing online experience!</sub>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!--
 ### Built With
 
-- [![React][react.js]][react-url]
+- [![Angular][angular.io]][angular-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
--->
 
 <!-- GETTING STARTED -->
 
@@ -143,6 +137,7 @@ Explore the recreation as you see fit! It's live for the foreseeable future. :)
 
 <!-- ROADMAP -->
 
+<!--
 ## Roadmap
 
 - [ ] Investigate IKEA business philosophy and how they implement it digitally
@@ -150,6 +145,7 @@ Explore the recreation as you see fit! It's live for the foreseeable future. :)
 See the [open issues](https://github.com/johnschatner/BoringAPI/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+-->
 
 <!-- CONTRIBUTING -->
 
