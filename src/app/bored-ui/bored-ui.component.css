@@ -232,3 +232,26 @@ TOOLTIP
 .tooltip:active::after {
   opacity: 0.5;
 }
+
+@media (max-width: 768px) {
+  .site-wrapper {
+    overflow: hidden;
+  }
+  .activity-wrapper {
+    max-height: 100%;
+    margin-bottom: 0;
+    padding-inline: 0;
+  }
+  .activity {
+    font-size: 2.5rem;
+  }
+  .btn-wrapper {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 4rem;
+  }
+  .btn-refresh {
+    white-space: nowrap;
+  }
+}
