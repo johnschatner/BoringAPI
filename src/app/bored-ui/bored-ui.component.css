@@ -233,6 +233,7 @@ TOOLTIP
   opacity: 0.5;
 }
 
+/*Mobile responsiveness*/
 @media (max-width: 768px) {
   .site-wrapper {
     overflow: hidden;
